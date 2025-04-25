@@ -1,0 +1,20 @@
+.env
+.env.local
+.env.*.local
+# Node.js dependencies
+/node_modules/
+
+# Environment files
+
+
+# Build output
+/dist/
+/build/
+
+/# macOS thumbnail files
+.DS_Store
+
+# IDE folders
+.vscode/
+.idea/
+.env
